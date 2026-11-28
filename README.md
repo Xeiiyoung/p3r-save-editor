@@ -1,6 +1,6 @@
 # P3R Save Lab
 
-## [Open P3R Save Lab](https://luckyseer.github.io/p3r-save-editor/)
+## [Open P3R Save Lab](https://xeiiyoung.github.io/p3r-save-editor/)
 
 P3R Save Lab is an unofficial Persona 3 Reload save editor that runs in a web
 browser. It supports Steam saves, including Episode Aigis saves, and supported
